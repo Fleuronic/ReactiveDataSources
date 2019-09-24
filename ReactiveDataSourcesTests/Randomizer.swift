@@ -8,7 +8,7 @@
 
 import Foundation
 import Differentiator
-import RxDataSources
+import ReactiveDataSources
 
 // https://en.wikipedia.org/wiki/Random_number_generation
 struct PseudoRandomGenerator {

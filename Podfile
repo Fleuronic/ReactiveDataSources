@@ -8,8 +8,6 @@ target 'ReactiveDataSources' do
   # Pods for ReactiveDataSources
 
   pod 'ReactiveCocoa', '~> 10.0'
-  pod 'RxSwift', '~> 5.0'
-  pod 'RxCocoa', '~> 5.0'
   pod 'Differentiator', '~> 4.0'  
 
   target 'ReactiveDataSourcesTests' do

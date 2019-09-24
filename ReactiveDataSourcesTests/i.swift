@@ -8,7 +8,7 @@
 
 import Foundation
 import Differentiator
-import RxDataSources
+import ReactiveDataSources
 
 struct i {
     let identity: Int

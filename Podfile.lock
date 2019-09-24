@@ -3,36 +3,22 @@ PODS:
   - ReactiveCocoa (10.0.0):
     - ReactiveSwift (~> 6.0)
   - ReactiveSwift (6.0.0)
-  - RxCocoa (5.0.0):
-    - RxRelay (~> 5)
-    - RxSwift (~> 5)
-  - RxRelay (5.0.0):
-    - RxSwift (~> 5)
-  - RxSwift (5.0.0)
 
 DEPENDENCIES:
   - Differentiator (~> 4.0)
   - ReactiveCocoa (~> 10.0)
-  - RxCocoa (~> 5.0)
-  - RxSwift (~> 5.0)
 
 SPEC REPOS:
   https://github.com/cocoapods/specs.git:
     - Differentiator
     - ReactiveCocoa
     - ReactiveSwift
-    - RxCocoa
-    - RxRelay
-    - RxSwift
 
 SPEC CHECKSUMS:
   Differentiator: 886080237d9f87f322641dedbc5be257061b0602
   ReactiveCocoa: 6d4c37ba236f5d9a7a55b2172cd09f19ba85f574
   ReactiveSwift: 24b7ed245617bbfd30ee0c87779b6c64ac1b4518
-  RxCocoa: fcf32050ac00d801f34a7f71d5e8e7f23026dcd8
-  RxRelay: 4f7409406a51a55cd88483f21ed898c234d60f18
-  RxSwift: 8b0671caa829a763bbce7271095859121cbd895f
 
-PODFILE CHECKSUM: c4f6bb14957409d584cfb4ef508f60df474db4a1
+PODFILE CHECKSUM: ebf6207786ff136af0fae7b87a28f7825e451611
 
 COCOAPODS: 1.6.2

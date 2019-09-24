@@ -9,7 +9,7 @@
 import Foundation
 import XCTest
 import Differentiator
-import RxDataSources
+import ReactiveDataSources
 
 class AlgorithmTests: XCTestCase {
     
