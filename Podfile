@@ -7,6 +7,7 @@ target 'ReactiveDataSources' do
 
   # Pods for ReactiveDataSources
 
+  pod 'ReactiveSwift', '~> 6.0'
   pod 'ReactiveCocoa', '~> 10.0'
   pod 'ReactiveDataSources', :git => 'https://github.com/Omn1/ReactiveDataSources.git'  
 

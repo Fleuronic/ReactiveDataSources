@@ -18,6 +18,7 @@ It enables creation of animated data sources for table an collection views in ju
 
   s.source_files = 'ReactiveDataSources/**/*.swift'
   s.dependency 'Differentiator', '~> 4.0'
+  s.dependency 'ReactiveSwift', '~> 6.0'
   s.dependency 'ReactiveCocoa', '~> 10.0'
 
   s.ios.deployment_target = '11.0'
