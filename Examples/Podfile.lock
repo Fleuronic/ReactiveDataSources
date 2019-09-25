@@ -8,7 +8,6 @@ PODS:
   - ReactiveSwift (6.0.0)
 
 DEPENDENCIES:
-  - ReactiveCocoa (~> 10.0)
   - ReactiveDataSources (from `https://github.com/Omn1/ReactiveDataSources.git`)
 
 SPEC REPOS:
@@ -32,6 +31,6 @@ SPEC CHECKSUMS:
   ReactiveDataSources: 238bfee37e4a6c2728ba3fc346958612426c4a54
   ReactiveSwift: 24b7ed245617bbfd30ee0c87779b6c64ac1b4518
 
-PODFILE CHECKSUM: 331645992cc66e1ce1cd8091270cf7541b7e81ba
+PODFILE CHECKSUM: df884c9808a9cad5706c9d78fa1d45a50bd2d5f6
 
 COCOAPODS: 1.6.2

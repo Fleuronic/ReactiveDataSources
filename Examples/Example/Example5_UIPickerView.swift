@@ -7,9 +7,6 @@
 //
 
 import UIKit
-import RxCocoa
-import RxSwift
-import RxDataSources
 
 final class ReactivePickerViewControllerExample: UIViewController {
     

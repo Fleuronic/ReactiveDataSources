@@ -16,7 +16,7 @@ It enables creation of animated data sources for table an collection views in ju
   s.requires_arc          = true
   s.swift_version    = '5.0'
 
-  s.source_files = 'Sources/RxDataSources/**/*.swift'
+  s.source_files = 'ReactiveDataSources/**/*.swift'
   s.dependency 'Differentiator', '~> 4.0'
   s.dependency 'ReactiveCocoa', '~> 10.0'
 

@@ -8,7 +8,7 @@ target 'ReactiveDataSources' do
   # Pods for ReactiveDataSources
 
   pod 'ReactiveCocoa', '~> 10.0'
-  pod 'Differentiator', '~> 4.0'  
+  pod 'ReactiveDataSources', :git => 'https://github.com/Omn1/ReactiveDataSources.git'  
 
   target 'ReactiveDataSourcesTests' do
     inherit! :search_paths
