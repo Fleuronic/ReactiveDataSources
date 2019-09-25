@@ -11,6 +11,7 @@
 		65BCA0B0233A593D00C1CBC8 /* ReactiveDataSources.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 65BCA0A6233A593C00C1CBC8 /* ReactiveDataSources.framework */; };
 		65BCA0B5233A593D00C1CBC8 /* ReactiveDataSourcesTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65BCA0B4233A593D00C1CBC8 /* ReactiveDataSourcesTests.swift */; };
 		65BCA0B7233A593D00C1CBC8 /* ReactiveDataSources.h in Headers */ = {isa = PBXBuildFile; fileRef = 65BCA0A9233A593C00C1CBC8 /* ReactiveDataSources.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		65C12B1E233B85FE0028D31A /* UITableView+Reactive.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65C12B1D233B85FE0028D31A /* UITableView+Reactive.swift */; };
 		65CEE211233A5C8D00E446E7 /* ReactiveTableViewSectionedAnimatedDataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65CEE200233A5C8C00E446E7 /* ReactiveTableViewSectionedAnimatedDataSource.swift */; };
 		65CEE212233A5C8D00E446E7 /* ReactiveCollectionViewSectionedReloadDataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65CEE201233A5C8C00E446E7 /* ReactiveCollectionViewSectionedReloadDataSource.swift */; };
 		65CEE213233A5C8D00E446E7 /* FloatingPointType+IdentifiableType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65CEE202233A5C8C00E446E7 /* FloatingPointType+IdentifiableType.swift */; };
@@ -59,6 +60,7 @@
 		65BCA0AF233A593D00C1CBC8 /* ReactiveDataSourcesTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ReactiveDataSourcesTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		65BCA0B4233A593D00C1CBC8 /* ReactiveDataSourcesTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReactiveDataSourcesTests.swift; sourceTree = "<group>"; };
 		65BCA0B6233A593D00C1CBC8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		65C12B1D233B85FE0028D31A /* UITableView+Reactive.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UITableView+Reactive.swift"; sourceTree = "<group>"; };
 		65CEE200233A5C8C00E446E7 /* ReactiveTableViewSectionedAnimatedDataSource.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReactiveTableViewSectionedAnimatedDataSource.swift; sourceTree = "<group>"; };
 		65CEE201233A5C8C00E446E7 /* ReactiveCollectionViewSectionedReloadDataSource.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReactiveCollectionViewSectionedReloadDataSource.swift; sourceTree = "<group>"; };
 		65CEE202233A5C8C00E446E7 /* FloatingPointType+IdentifiableType.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "FloatingPointType+IdentifiableType.swift"; sourceTree = "<group>"; };
@@ -168,6 +170,7 @@
 				65BCA0AA233A593C00C1CBC8 /* Info.plist */,
 				65CEE238233A66BA00E446E7 /* ReactiveTableViewDataSourceType.swift */,
 				65CEE23A233A750F00E446E7 /* ReactiveCollectionViewDataSourceType.swift */,
+				65C12B1D233B85FE0028D31A /* UITableView+Reactive.swift */,
 			);
 			path = ReactiveDataSources;
 			sourceTree = "<group>";
@@ -374,6 +377,7 @@
 				65CEE23B233A750F00E446E7 /* ReactiveCollectionViewDataSourceType.swift in Sources */,
 				65CEE217233A5C8D00E446E7 /* String+IdentifiableType.swift in Sources */,
 				65CEE21F233A5C8D00E446E7 /* IntegerType+IdentifiableType.swift in Sources */,
+				65C12B1E233B85FE0028D31A /* UITableView+Reactive.swift in Sources */,
 				65CEE23D233A7BB700E446E7 /* DataSources.swift in Sources */,
 				65CEE214233A5C8D00E446E7 /* Array+Extensions.swift in Sources */,
 			);
