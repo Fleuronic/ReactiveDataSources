@@ -13,7 +13,7 @@ let package = Package(
 		)
 	],
 	dependencies: [
-		.package(url: "https://github.com/ReactiveCocoa/ReactiveSwift.git", branch: "swift-concurrency"),
+		.package(url: "https://github.com/ReactiveCocoa/ReactiveSwift.git", from: "7.1.1"),
 		.package(url: "https://github.com/ReactiveCocoa/ReactiveCocoa", from: "12.0.0")
 	],
 	targets: [

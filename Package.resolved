@@ -14,8 +14,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/ReactiveCocoa/ReactiveSwift.git",
       "state" : {
-        "branch" : "swift-concurrency",
-        "revision" : "3d40187c982346352d0adbe6b38e0e3d53fddc95"
+        "revision" : "40c465af19b993344e84355c00669ba2022ca3cd",
+        "version" : "7.1.1"
       }
     }
   ],
